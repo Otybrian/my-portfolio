@@ -1,0 +1,38 @@
+.header {
+    background-image: url("images/background.jpeg");
+    background-size: 50%;
+    height: 400px;
+}
+#navbar {
+    display: flex;
+}
+#logo {
+    margin-left: 13%;
+    margin-top: -25px;
+}
+#logo h2{
+    color: blue;
+    font-size: 35px;
+    font-weight: 700;
+}
+#logo p{
+    margin-top: -35px;
+    margin-left: 110px;
+    color: white;
+    font-size: 15px;
+}
+#navbar ul{
+    display: flex;
+    margin-left: 30%;
+   
+}
+#navbar li{
+   list-style: none;
+   color: white;
+   padding: 0 25px;
+   justify-content: space-between;
+}
+#navbar li :hover{
+    font-size: 20px;
+    color: blue;
+}
