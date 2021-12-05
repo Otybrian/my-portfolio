@@ -71,3 +71,20 @@
 #intro {
     font-size: 30px;
 }
+.footer {
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-around;
+    background-color: blue;
+    margin-top: 30px;
+}
+.footer h4 {
+    font-size: 20px;
+}
+.footer li{
+    list-style: none;
+    font-size: 17px;
+    color: white;
+    font-style: italic;
+    font-weight: bolder;
+}
