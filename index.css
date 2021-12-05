@@ -68,3 +68,20 @@
      font-style: italic;
      font-weight: bolder;
  }
+ .icons {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+#copy {
+    margin-top: 10px;
+    font-size: 20px;
+}
+#platforms {
+    margin-top: 10px;
+}
+#right {
+    margin-top: 10px;
+    font-size: 20px;
+}
