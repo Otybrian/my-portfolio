@@ -36,3 +36,35 @@
     font-size: 20px;
     color: blue;
 }
+.projects {
+    display: flex;
+    margin-left: 30px;
+    justify-content: space-around;
+ }
+ #proj{
+     border: solid whitesmoke;
+     box-shadow: 10px 10px whitesmoke;
+     text-align: center;
+     width: 300px;
+     height: 330px;
+ }
+ #proj h4 {
+     font-size: 25px;
+ }
+ .footer {
+     display: flex;
+     margin-left: 10px;
+     justify-content: space-around;
+     background-color: blue;
+     margin-top: 30px;
+ }
+ .footer h4 {
+     font-size: 20px;
+ }
+ .footer li{
+     list-style: none;
+     font-size: 17px;
+     color: white;
+     font-style: italic;
+     font-weight: bolder;
+ }
