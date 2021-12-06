@@ -13,6 +13,7 @@ To access this project on your local files, you can clone it using these steps
 2. Use this command to clone `$ git clone https://github.com/Otybrian/my-portfolio.git
 3. This will clone the repositoty into your local folder.
 ## Technologies Used
+Designed using figma https://www.figma.com/file/6R0njbNXK9SQo6GM3VwEzx/Untitled?node-id=1%3A2
 HTML
 CSS
 Git
